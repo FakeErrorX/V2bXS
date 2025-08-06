@@ -5,7 +5,7 @@ A V2board node server based on Xray, supporting V2ray, Trojan, and Shadowsocks p
 
 Find the source code here: [InazumaV/V2bX](https://github.com/InazumaV/V2bX)
 
-If you're not sure about the script, you can test it first in this sandbox: https://killercoda.com/playgrounds/scenario/ubuntu
+If you're not sure about the script, you can test it first in this sandbox: [Ubuntu](https://killercoda.com/playgrounds/scenario/ubuntu)
 
 # One-Click Installation
 
